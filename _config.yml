@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: 野生助手 (WildHelper)
+description: 供高校使用的教务处小助手
+lang: zh-CN
+github:
+  repository_url: https://github.com/WildHelper
