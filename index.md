@@ -12,6 +12,11 @@ layout: default
 
 无
 
+## 现有产品
+
++ [WildHelper-MiniProgram](https://github.com/WildHelper/WildHelper-MiniProgram)：野生助手前端 - 小程序版
++ [WildHelper-PHP](https://github.com/WildHelper/WildHelper-PHP)：野生助手后端 - PHP 版
+
 ## 核心功能
 
 + 查分：自动计算各学期、辅修/双学位、第一学位的加权平均分、GPA、课程数、总学分、通过率等信息，自动处理重修、补考、不及格等特殊情况；分组展示成绩详情，可显示教师、课程种类、课程编号、课程学分，并支持排序和搜索；支持分数分享

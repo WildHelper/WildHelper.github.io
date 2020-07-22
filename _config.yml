@@ -4,3 +4,4 @@ description: 供高校使用的教务处小助手
 lang: zh-CN
 github:
   repository_url: https://github.com/WildHelper
+  is_project_page: false
