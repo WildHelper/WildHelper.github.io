@@ -12,10 +12,11 @@ layout: default
 
 无
 
-## 现有产品
+## 现有项目
 
 + [WildHelper-MiniProgram](https://github.com/WildHelper/WildHelper-MiniProgram)：野生助手前端 - 小程序版
 + [WildHelper-PHP](https://github.com/WildHelper/WildHelper-PHP)：野生助手后端 - PHP 版
++ [WildHelper](https://github.com/WildHelper/WildHelper)：野生助手官网
 
 ## 核心功能
 
