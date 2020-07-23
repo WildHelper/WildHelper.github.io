@@ -11,8 +11,8 @@ layout: default
 ## 现有项目
 
 + [WildHelper](https://github.com/WildHelper): GitHub 项目首页
-  + [Frontend-MiniProgram](https://github.com/WildHelper/Frontend-MiniProgram): 前端 - 小程序版
-  + [Backend-PHP](https://github.com/WildHelper/Backend-PHP): 后端 - PHP 版
+  + [MiniProgram](https://github.com/WildHelper/MiniProgram): 小程序
+  + [Server-PHP](https://github.com/WildHelper/Server-PHP): 后端 - PHP 版
   + [WildHelper.com](https://github.com/WildHelper/WildHelper.com): 官网
 
 ## 核心功能
