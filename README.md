@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /index.html
 ---
 
 野生助手是学校教务小助手，支持查分、查课表、查考试、出分提醒。专供指定校在校生和已毕业校友使用。
