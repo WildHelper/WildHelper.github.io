@@ -5,9 +5,9 @@ permalink: /index.html
 
 野生助手是学校教务小助手，支持查分、查课表、查考试、出分提醒。专供指定校在校生和已毕业校友使用。
 
-本项目是在 [GNU Affero GPL v3.0](LICENSE) 协议下开源的项目，任何人都可以在协议的约束下，免费的修改、重新分发本项目下的软件
+本项目是在 [GNU Affero GPL v3.0](https://github.com/WildHelper/WildHelper.com/raw/master/LICENSE) 协议下开源的项目，任何人都可以在协议的约束下，免费的修改、重新分发本项目下的软件。若修改本程序并在网络上提供服务，必须使用相同协议公开修改后的完整源代码。
 
-本项目希望提升学生在移动端的教务体验；但在适用法律允许的范围内，本项目不任何担保责任，使用者需自行承担全部风险，详情请参见 [GNU Affero GPL v3.0](LICENSE)
+本项目希望提升学生在移动端的教务体验；但在适用法律允许的范围内，本项目不担保任何责任，使用者需自行承担全部风险，详情请参见 [GNU Affero GPL v3.0](https://github.com/WildHelper/WildHelper.com/raw/master/LICENSE)
 
 ## 现有项目
 
