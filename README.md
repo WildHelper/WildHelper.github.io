@@ -24,7 +24,7 @@ permalink: /index.html
   + [MiniProgram](https://github.com/WildHelper/MiniProgram): 小程序
   + [Server-PHP](https://github.com/WildHelper/Server-PHP): 后端 - PHP 版
   + [WildHelper.github.io](https://github.com/WildHelper/WildHelper.github.io): 官网
-+ [ZE3kr/BJUT-Grade-Distribution-2020]: 野生助手 (原野生工大助手) 在北京工业大学的课程统计全量数据。
++ [ZE3kr/BJUT-Grade-Distribution-2020](https://github.com/ZE3kr/BJUT-Grade-Distribution-2020): 野生助手 (原野生工大助手) 在北京工业大学的课程统计全量数据。
 
 ## 核心功能
 
